@@ -1,0 +1,8 @@
+.energy:hover{
+   
+    background-color: rgb(156, 74, 233);
+    transform: scale(1.5); 
+    overflow: hidden;
+    transition: 1s;
+    margin-right: 10px;
+}
